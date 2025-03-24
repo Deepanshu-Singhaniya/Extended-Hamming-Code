@@ -16,10 +16,6 @@ This repository contains the source code for an interactive website that explain
   - Responsive, visually appealing layout.
   - Smooth animations and a design that resonates with tech enthusiasts and students.
 
-## Live Demo
-
-*(If available, include a link to the live demo here. For example:)*  
-[View Live Demo](https://your-live-demo-link.com)
 
 ## Installation
 
@@ -32,7 +28,42 @@ To run the project locally, follow these steps:
 
 2. **Navigate to the Project Directory:**
 
-```bash
-   git clone https://github.com/Deepanshu-Singhaniya/Extended-Hamming-Code.git
+   ```bash
+   cd Extended-Hamming-Code
 
-3. 
+3. **Install Dependencies::**
+
+   ```bash
+   npm install 
+
+4. **Start the project:**
+
+   ```bash
+   npm start
+
+## Technologies Used
+
+- **React:** JavaScript library for building user interfaces.
+- **CSS/SCSS:** Styling for a modern and responsive design.
+- **JavaScript (ES6+):** Core language for interactive functionalities.
+
+## Usage
+
+After starting the development server with `npm start`, open your web browser and navigate to [http://localhost:3000](http://localhost:3000) to interact with the Extended Hamming Code demonstration. Explore various inputs and watch how the system generates codes and detects/corrects errors in real time.
+
+## Contributing
+
+Contributions are welcome! To contribute:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bugfix.
+3. Commit your changes.
+4. Push to your branch and open a pull request.
+
+For major changes, please open an issue first to discuss what you would like to change.
+
+## License
+
+This project is licensed under the MIT License. See the `LICENSE` file for details.
+
+
