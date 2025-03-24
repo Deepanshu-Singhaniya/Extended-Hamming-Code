@@ -29,3 +29,10 @@ To run the project locally, follow these steps:
 
    ```bash
    git clone https://github.com/Deepanshu-Singhaniya/Extended-Hamming-Code.git
+
+2. **Navigate to the Project Directory:**
+
+```bash
+   git clone https://github.com/Deepanshu-Singhaniya/Extended-Hamming-Code.git
+
+3. 
